@@ -10,7 +10,8 @@ El tamaño máximo del archivo es de 25mb, los archivos de autoCAD no suelen pes
 
 Yo me encargaré de colocar todas las piezas para que quede todo bonito y kebab. 
 
-Os agradecería que hicierais también el dibujo 2D, las vistas de vuestras piezas.
+Os agradecería que hicierais también el dibujo 2D, las vistas de vuestras piezas. Aseguraros de que todos los objetos son sólidos, pero
+no os volváis locos uniendo todas las piezas.
 
 Si os pone que la subida está bloqueada, solo tenéis que darle a fork/tenedor y ya os dejará subirlo. Aseguraros de haber verificado 
 el email.
